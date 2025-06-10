@@ -1,0 +1,5 @@
+CART_HOST: cart.dawsmano.site
+USER_HOST: user.dawsmano.site
+RABBITMQ_HOST: rabbitmq.dawsmano.site
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123

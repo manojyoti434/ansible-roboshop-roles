@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.dawsmano.site
+USER_HOST: user.dawsmano.site
+CART_HOST: cart.dawsmano.site
+SHIPPING_HOST: shipping.dawsmano.site
+PAYMENT_HOST: payment.dawsmano.site
